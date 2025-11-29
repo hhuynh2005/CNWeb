@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hoa Đỗ Quyên",
+        "description": "Hoa đỗ quyên là loài hoa đẹp thường nở rộ vào mùa xuân với nhiều màu sắc rực rỡ.",
+        "image": "doquyen.jpg"
+    },
+    {
+        "name": "Hoa Hải Đường",
+        "description": "Hoa hải đường có vẻ đẹp sang trọng, là biểu tượng của tài lộc và phú quý.",
+        "image": "haiduong.jpg"
+    },
+    {
+        "name": "Hoa Mai",
+        "description": "Hoa mai vàng là biểu tượng Tết ở miền Nam, tượng trưng cho sự may mắn và thịnh vượng.",
+        "image": "mai.jpg"
+    },
+    {
+        "name": "Hoa Tường Vy",
+        "description": "Hoa tường vy có màu hồng nhẹ, tỏa hương thơm dịu và thường nở vào mùa hè.",
+        "image": "tuongvy.jpg"
+    }
+]
